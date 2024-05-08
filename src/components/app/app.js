@@ -15,7 +15,7 @@ import { StarshipsDetails } from '../sw-components';
 
 export default class App extends Component {
 
-  
+  // Fot testing Git
   state = {
     // showRandomPlanet: true,
     swapiService: new SwapiService(),
